@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     siteName: 'Honor Electric',
     images: [
       {
-        url: 'https://HonorElectric.vercel.app/image-removebg-preview.png', 
+        url: 'https://honorelectric.vercel.app/image-removebg-preview.png', 
         width: 1200,
         height: 630,
         alt: 'Honor Electric Preview Image',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Honor Electric',
     description: 'Professional electrical services.',
-    images: ['https://HonorElectric.vercel.app/image-removebg-preview.png'],
+    images: ['https://honorelectric.vercel.app/image-removebg-preview.png'],
   },
 };
 
